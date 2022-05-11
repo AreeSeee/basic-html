@@ -1,0 +1,14 @@
+body{
+    background-color: #0AA1DD;
+
+}
+hr{
+    background-color: azure;
+    width: 03%;
+    border-style: dotted;
+    height: 0px;
+
+}
+h1,h3{
+    color: aqua;
+}
